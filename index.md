@@ -11,3 +11,5 @@
 ###### H6 header
 
 default text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
