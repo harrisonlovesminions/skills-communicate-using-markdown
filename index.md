@@ -16,5 +16,11 @@ default text
 test = "Hello World"
 ```
 
+### To-do List
+- [ ] Complete Github orientation
+- [ ] Complete Markdown orientation
+- [ ] become super rich and famous
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
